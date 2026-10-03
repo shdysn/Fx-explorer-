@@ -8,7 +8,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.aistudio.miexplorer.app"
+        applicationId = "com.pkstudio.miexplorer.app"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

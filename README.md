@@ -40,5 +40,5 @@ A modern, high-performance Android File Explorer inspired by Xiaomi's iconic **M
 - **Target Runtime**: Android (JDK 21, Android SDK 36, AGP 9.1.1, Gradle 9.3.1)
 - **UI Framework**: Jetpack Compose with Material Design 3
 - **Language**: Kotlin 2.2.21
-- **Package Name / Application ID**: `com.aistudio.miexplorer.app`
+- **Package Name / Application ID**: `com.pkstudio.miexplorer.app`
 - **Namespace**: `com.mi.explorer`
